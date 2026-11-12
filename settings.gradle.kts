@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BuscadorDePelliculas"
+rootProject.name = "BuscadorDePeliculas"
 include(":app")
